@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base.iml" filepath="$PROJECT_DIR$/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../common/common.iml" filepath="$PROJECT_DIR$/../common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nacos/nacos.iml" filepath="$PROJECT_DIR$/../nacos/nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nacos-consumer/nacos-consumer.iml" filepath="$PROJECT_DIR$/../nacos-consumer/nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nacos-discovery/nacos-discovery.iml" filepath="$PROJECT_DIR$/../nacos-discovery/nacos-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocketmq-traning.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rocketmq-traning.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocketmq-traning.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rocketmq-traning.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-consumer/rpcconsumer.iml" filepath="$PROJECT_DIR$/rpc-consumer/rpcconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-interface/rpcinterface.iml" filepath="$PROJECT_DIR$/rpc-interface/rpcinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-provider/rpcprovider.iml" filepath="$PROJECT_DIR$/rpc-provider/rpcprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentinel/sentinel.iml" filepath="$PROJECT_DIR$/../sentinel/sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webflux/webflux.iml" filepath="$PROJECT_DIR$/../webflux/webflux.iml" />
+    </modules>
+  </component>
+</project>

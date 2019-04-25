@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tony.nacos.configuration.BookProperties",
+      "name": "com.tony.book",
+      "type": "com.tony.nacos.configuration.BookProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tony.nacos.configuration.BookProperties",
+      "name": "com.tony.book.author",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tony.nacos.configuration.BookProperties",
+      "name": "com.tony.book.book-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tony.nacos.configuration.BookProperties",
+      "name": "com.tony.book.price",
+      "type": "java.lang.Double"
+    },
+    {
+      "sourceType": "com.tony.nacos.configuration.BookProperties",
+      "name": "com.tony.book.publisher",
+      "type": "java.lang.String"
+    }
+  ]
+}

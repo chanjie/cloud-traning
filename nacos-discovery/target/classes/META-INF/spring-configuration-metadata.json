@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tony.nacosdiscovery.TestProperties",
+      "name": "com.tony",
+      "type": "com.tony.nacosdiscovery.TestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tony.nacosdiscovery.TestProperties",
+      "defaultValue": 0,
+      "name": "com.tony.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.tony.nacosdiscovery.TestProperties",
+      "name": "com.tony.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tony.nacosdiscovery.TestProperties",
+      "name": "com.tony.pwd",
+      "type": "java.lang.String"
+    }
+  ]
+}

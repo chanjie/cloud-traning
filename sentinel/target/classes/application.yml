@@ -1,0 +1,16 @@
+server:
+  port: 9300
+  address: "192.168.8.26"
+spring:
+  application:
+    name: sentinel
+  cloud:
+    sentinel:
+      transport:
+        port: 8719
+        dashboard: "192.168.8.12:8080"
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
