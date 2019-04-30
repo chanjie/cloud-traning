@@ -1,0 +1,5 @@
+server:
+  port: 9500
+spring:
+  application:
+    name: webhook
